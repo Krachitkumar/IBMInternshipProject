@@ -20,18 +20,13 @@ The project aims to achieve the following objectives:
 
 ## Software
 - **Front-End Development:** HTML, CSS, SCSS, JavaScript
-- **Backend:** Express.js
-- **Database:** MongoDB
 - **Version Control:** GitHub
 - **APIs and Integrations**
 
 ## Features
-1. **Interactive Courses:** A wide range of courses covering various subjects, equipped with interactive elements such as quizzes, simulations, and multimedia content to enhance engagement.
-2. **Learning Analytics:** Tools to track student progress, identify strengths and weaknesses, and provide insights for targeted improvement.
-3. **Resource Library:** A comprehensive library of educational materials, including textbooks, articles, research papers, and supplementary learning tools.
-4. **Mobile Access:** A mobile-friendly interface ensuring that students can access learning materials on-the-go via smartphones and tablets.
-5. **Community Support:** Discussion forums, study groups, and mentorship programs to create a supportive learning community.
-6. **Certification:** Opportunities for students to earn certificates upon completion of courses, adding value to their educational achievements.
+1. **Interactive Courses:** A wide range of courses covering various subjects.
+2. **Resource Library:** A comprehensive library of educational materials, including textbooks, articles, research papers, and supplementary learning tools.
+3. **Mobile Access:** A mobile-friendly interface ensuring that students can access learning materials on-the-go via smartphones and tablets.
 
 ## Methodology
 The methodology for developing the EdTech platform involves:
