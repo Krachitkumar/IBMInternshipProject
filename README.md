@@ -1,4 +1,9 @@
-# Accessible Education for Underprivileged Students
+# Web Edu - Accessible Education for Underprivileged Students
+<br/>
+
+### Demo : [link]('link here')
+
+<br/>
 
 ## Concept of the Project
 The project is an innovative EdTech website designed to address the Sustainable Development Goal (SDG) of providing quality education for all. This platform aims to bridge the educational gap by offering accessible, affordable, and high-quality learning resources to students worldwide. By leveraging technology and a robust digital infrastructure, the website seeks to enhance learning experiences, promote educational equity, and empower learners with the skills needed for the future.
@@ -14,39 +19,93 @@ The project aims to achieve the following objectives:
 - **Collaborative Learning:** Foster a collaborative learning environment through forums, group projects, and peer-to-peer interactions, enabling students to learn from and support each other.
 - **Skill Development:** Focus on developing both academic and practical skills, preparing students for higher education and the job market.
 
-## Data Sources Used
-- Different NGOs and Societies
-- Volunteer Organizations
-
 ## Software
 - **Front-End Development:** HTML, CSS, SCSS, JavaScript
 - **Version Control:** GitHub
 - **APIs and Integrations**
+- **Server:** Netlify
 
 ## Features
 1. **Interactive Courses:** A wide range of courses covering various subjects.
 2. **Resource Library:** A comprehensive library of educational materials, including textbooks, articles, research papers, and supplementary learning tools.
 3. **Mobile Access:** A mobile-friendly interface ensuring that students can access learning materials on-the-go via smartphones and tablets.
 
-## Methodology
-The methodology for developing the EdTech platform involves:
-1. Gathering requirements from educational stakeholders.
-2. Designing and prototyping a user-friendly interface.
-3. Developing the front-end components using HTML, CSS, SCSS, and JavaScript.
-4. Integrating suitable APIs and cloud services.
-5. Implementing security measures to protect user data.
-6. Deploying the platform using Netlify for efficient hosting and continuous deployment.
-7. Conducting extensive testing and quality assurance to ensure functionality and usability.
-8. Providing user training and support post-deployment.
-9. Continuously improving the platform based on user feedback and educational impact metrics.
+<br/>
 
-By following this methodology, the EdTech platform aims to create an accessible and high-quality educational experience for all students.
+## 📁 File Strutcture : 
 
-## Probable Outcome
-- **Enhanced Educational Accessibility:** More students, especially from underserved areas, will gain access to quality educational resources.
-- **Improved Learning Outcomes:** Personalized learning experiences will help students achieve better academic results.
-- **Cost-Effective Education:** Affordable learning resources will reduce the financial barriers to quality education.
-- **Global Competency:** Students will be better prepared for the future workforce with up-to-date skills and knowledge.
-- **User Engagement:** Interactive and engaging content will keep students motivated and involved in their learning journey.
+```
+|   index.html // Index Html File 
+|   README.md  // Readme File 
+|
+\---app // All Files or Images 
+    +---images
+    |   |   ba1.png
+    |   |   causal.png
+    |   |   menu-alt.png
+    |   |   menu-x.png
+    |   |   preloader.gif
+    |   |
+    |   
+    |           
+    +---js
+    |       script.js // Main Javascript file 
+    |
+    \---scss
+        |   style.css // Main Style CSS File
+        |   style.css.map
+        |   style.scss // Main Style SCSS File 
+        |
+        +---components // Here present all of components 
+        |       _about.scss
+        |       _banner.scss
+        |       _classes.scss
+        |       _contact.scss
+        |       _courses.scss
+        |       _expert.scss
+        |       _faq.scss
+        |       _features.scss
+        |       _footer.scss
+        |       _header.scss
+        |       _index.scss
+        |       _preloadder.scss
+        |       _subscribe.scss
+        |
+        +---global // Here present all Default Html code and Color Codes 
+        |       _boilerplate.scss
+        |       _colors.scss    // All Colours file 
+        |       _fonts.scss     // Font File 
+        |       _images.scss    // Images url File 
+        |       _index.scss
+        |       _typography.scss
+        |
+        \---util
+                _breakpoints.scss // Media Query Function 
+                _functions.scss   // Some function 
+                _index.scss
+```
+```
+Boost Software License - Version 1.0 - August 17th, 2003
 
-Overall, the probable outcome of the EdTech platform is the creation of an inclusive, high-quality, and accessible educational solution that empowers students worldwide and contributes significantly to the Sustainable Development Goal (SDG) of quality education for all.
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of the software and accompanying documentation covered by
+this license (the "Software") to use, reproduce, display, distribute,
+execute, and transmit the Software, and to prepare derivative works of the
+Software, and to permit third-parties to whom the Software is furnished to
+do so, all subject to the following:
+
+The copyright notices in the Software and this entire statement, including
+the above license grant, this restriction and the following disclaimer,
+must be included in all copies of the Software, in whole or in part, and
+all derivative works of the Software, unless such copies or derivative
+works are solely in the form of machine-executable object code generated by
+a source language processor.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
+FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+```
