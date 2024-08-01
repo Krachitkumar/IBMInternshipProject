@@ -1,7 +1,7 @@
 # Web Edu - Accessible Education for Underprivileged Students
 <br/>
 
-### [<u>Depolyed Website</u>](https://webeduwe.netlify.app/)
+### <u>[Depolyed Website](https://webeduwe.netlify.app/)</u>
 
 <br/>
 
