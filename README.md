@@ -1,7 +1,7 @@
 # Web Edu - Accessible Education for Underprivileged Students
 <br/>
 
-### Demo : [link]('link here')
+### Demo : [link](https://webeduwe.netlify.app/)
 
 <br/>
 
